@@ -51,7 +51,7 @@ npm install
 ```
 3. Execute os testes:
 ```
-4. Execute os testes:
+npm test
 ```
 
 ## Observações
